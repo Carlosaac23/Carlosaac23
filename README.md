@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Carlos Acosta
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript
-- 📫 How to reach me carlosaac23@hotmail.com
+- 📫 How to reach me carlosaac232001@gmail.com
 - 😄 Pronouns: Carlos
 - ⚡ Fun fact: I like soccer
 
