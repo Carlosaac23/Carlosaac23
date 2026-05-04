@@ -11,13 +11,13 @@
     <a href="https://portfolio-steel-kappa-78.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio link" />
     </a>
-    <a href="https://www.linkedin.com/in/carlos-acosta-7aa448263/" target="_blank">
+    <a href="https://www.linkedin.com/in/carlos-acosta-7aa448263/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link" />
     </a>
-    <a href="https://x.com/carlosaac23" target="_blank">
+    <a href="https://x.com/carlosaac23">
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter link" />
     </a>
-    <a href="mailto:carlosaac232001@gmail.com" target="_blank">
+    <a href="mailto:carlosaac232001@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil link" />
     </a>
   </p>
@@ -76,5 +76,3 @@
   <img src="./assets/icons/docker-icon.png" alt="docker" width="45" height="45"/>
   <img src="./assets/icons/vercel-icon.png" alt="vercel" width="45" height="45"/>
 </p>
-
-<!-- markdownlint-disable MD033 -->
