@@ -1,4 +1,4 @@
-<!-- markdownlint-disable MD033 MD013 -->
+<!-- markdownlint-disable MD033 MD013 MD041 -->
   <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Carlos%20Acosta&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=ededed&fontSize=55&textBg=false" alt="Header" />
   </p>
@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter link" />
     </a>
     <a href="mailto:carlosaac232001@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil link" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail link" />
     </a>
   </p>
 
