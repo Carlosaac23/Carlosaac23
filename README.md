@@ -8,7 +8,7 @@
   </h1>
 
   <p align="center">
-    <a href="https://portfolio-steel-kappa-78.vercel.app/" target="_blank">
+    <a href="https://portfolio-steel-kappa-78.vercel.app/">
       <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=FF7139" alt="Portfolio link" />
     </a>
     <a href="https://www.linkedin.com/in/carlos-acosta-7aa448263/">
