@@ -77,8 +77,4 @@
   <img src="./assets/icons/vercel-icon.png" alt="vercel" width="45" height="45"/>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=E0E0E0&fontSize=55&textBg=false" alt="Footer"/>
-</p>
-
 <!-- markdownlint-disable MD033 -->
