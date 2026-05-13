@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD013 MD041 -->
   <p align="center">
-    <img src="https://capsule-render.vercel.app/api?type=blur&height=200&color=gradient&text=Carlos%20Acosta&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=ededed&fontSize=55&textBg=false" alt="Header" />
+    <img src="https://capsule-render.vercel.app/api?type=blur&height=100&color=gradient&text=Carlos%20Acosta&strokeWidth=2&section=footer&reversal=true&fontAlign=50&stroke=ededed&fontSize=55&textBg=false" alt="Header" />
   </p>
 
   <h1 align="center">
@@ -22,37 +22,18 @@
     </a>
   </p>
 
----
+## 👨🏻‍💻 About Me
+  
+- **Name**: Carlos Acosta
+- **Located in**: Valledupar, Colombia
+- **Current job**: No job
+- **Education**: Self-Taught Developer and a Degree in Systems Engineering (Start in august 2026).
+- **Fields of interests**: Web Development, Backend Development.  
+- **Currently learning**: Go and Docker.
+- **Hobbies**: Gaming, Movies, Gym, Reading.
 
-  <h2> 👨🏻‍💻 &nbsp;About Me</h2>
-  
-  ```yaml
-  name: Carlos Acosta
-  located_in: Valledupar, Colombia
-  current_job: Software Developer
-  education:
-    [
-      "Self-Taught Developer",
-      "Degree in Systems Engineering (Start in august 2026)",
-    ]
-  
-  fields_of_interests:
-    [
-      "Web Development",
-      "Backend Development",
-    ]
-  technical_background:
-    [
-      "Full Stack Developer"
-    ]
-    
-  currently_learning: ["Go and Docker"]
-  hobbies: ["Gaming", "Movies", "Gym", "Reading"]
-  ```
-  
-  ---
+## 🚀 Some Tools and Languages I Use
 
-<h2> 🚀 &nbsp;Some Tools I Use</h2>
 <p align="center">
   <img src="./assets/icons/linux-icon.png" alt="linux" width="45" height="45"/>
   <img src="./assets/icons/zed-icon.png" alt="zed" width="45" height="45"/>
@@ -76,3 +57,5 @@
   <img src="./assets/icons/docker-icon.png" alt="docker" width="45" height="45"/>
   <img src="./assets/icons/vercel-icon.png" alt="vercel" width="45" height="45"/>
 </p>
+
+You can my main projects down here. ⬇️
