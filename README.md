@@ -58,4 +58,4 @@
   <img src="./assets/icons/vercel-icon.png" alt="vercel" width="45" height="45"/>
 </p>
 
-You can my main projects down here. ⬇️
+You can see my main projects down here. ⬇️
